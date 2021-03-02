@@ -7,6 +7,7 @@ Created 2/18/2021
 
 ### Views Stats:
 2/18/2021: 0 views
+3/2/2021: 100 views
 
 ### Are you a fan of @ScratchAddons?
 ScratchAddons is a open source WebExtension on Chrome and Firefox which I have worked on for a while now, helping to contribute. I've pinned it on my profile somewhere. You can join the fan club in that case: [![](https://img.shields.io/badge/join-the_fanclub-7289da.svg?style=flat-square)](https://discord.gg/2qKGg5gGAh)
