@@ -1,15 +1,9 @@
 # Welcome!
 This is TheColaber!
 
-Created 2/18/2021
+I wouldn't be here if it wasn't for my 4th grade teacher. Scratch started everything, and now I'm a developer who loved programming in JavaScript and Node.js.
 
-<img src="https://komarev.com/ghpvc/?username=thecolaber&label=Profile%20views&color=0e75b6&style=flat" alt="thecolaber" />
-
-### Views Stats:
-2/18/2021: 0 views!
-
-3/2/2021: 100 views!
-
-3/29/2021: 200 views!
-
-4/14/2021: 300 views!
+~ Website: [thecolaber.github.io](https://thecolaber.github.io)  
+~ Scratch: [TheColaber](https://scratch.mit.edu/users/TheColaber)  
+~ Newest Project: [reflect](https://thecolaber.github.io/reflect)  
+~ ScratchAddons: [ScratchAddons](https://scratchaddons.com)  
