@@ -1,5 +1,5 @@
 # Welcome!
-### This is TheColaber!
+### I am TheColaber!
 
 #### I wouldn't be here if it wasn't for my 4th grade teacher. Scratch started everything, and now I'm a developer who loved programming in JavaScript and Node.js.
 
