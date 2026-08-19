@@ -1,4 +1,4 @@
-- I'm now on [@danielgallab](https://github.com/danielgallab)... most of the work I did on this account was towards Scratch Addons!
-- Hi! I'm Daniel! This is my Github account.
-- Check out [ScratchAddons](https://scratchaddons.com). It's an open source project that many people help contribute and translate daily. 300,000+ users use this extention daily!
-- I love working on fun projects...
+- Hi! I'm [Daniel](https://danielgallab.com)! This is my Github account.
+- My latest project I've been working on is [Coptic Hymns in English](https://coptichymnsinenglish.com)
+- Play WordBridge: https://wordbridge.danielgallab.com
+- Check out [ScratchAddons](https://scratchaddons.com). It's an open source project that many people help contribute and translate daily. 600,000+ users use this extention daily!
